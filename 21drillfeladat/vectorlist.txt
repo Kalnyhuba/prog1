@@ -1,0 +1,10 @@
+Programozás 10 1.5
+Programozás2 20 2.5
+Programozás3 30 3.5
+Programozás4 40 4.5
+Programozás5 50 5.5
+Programozás6 60 6.5
+Programozás7 70 7.5
+Programozás8 80 8.5
+Programozás9 90 9.5
+Programozás10 100 10.5
